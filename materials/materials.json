@@ -139,36 +139,6 @@
                             "path": "discussions/08-dfs/discussion.pdf"
                         }
                     }
-                },
-                "09-dijkstra_bellman_ford": {
-                    "metadata": {
-                        "date": "2026-05-29",
-                        "topic": "Dijkstra's and Bellman-Ford",
-                        "number": 9
-                    },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/09-dijkstra_bellman_ford/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "discussions/09-dijkstra_bellman_ford/solution.pdf"
-                        }
-                    }
-                },
-                "10-midterm_02_review": {
-                    "metadata": {
-                        "date": "2026-06-05",
-                        "topic": "Midterm 02 Review",
-                        "number": 10
-                    },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/10-midterm_02_review/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "discussions/10-midterm_02_review/solution.pdf"
-                        }
-                    }
                 }
             }
         },
