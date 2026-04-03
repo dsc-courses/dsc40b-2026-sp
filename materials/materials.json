@@ -39,14 +39,7 @@
                         "number": 1,
                         "recording": null
                     },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/01-time_complexity/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "discussions/01-time_complexity/solution.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "02-best_worst_time": {
                     "metadata": {
@@ -262,7 +255,11 @@
                         "topic": "Asymptotic Time Complexity, pt. II",
                         "number": 3
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/03-time_complexity-pt_II/slides.pdf"
+                        }
+                    }
                 },
                 "04-time_complexity-pt_III": {
                     "metadata": {
