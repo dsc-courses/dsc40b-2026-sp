@@ -651,7 +651,7 @@
                 "02-asymptotic": {
                     "metadata": {
                         "due": "2026-04-12 23:59:00",
-                        "ready": true,
+                        "ready": false,
                         "released": "2026-04-05 00:00:00",
                         "topic": "Time Complexity and Asymptotic Notation",
                         "number": 2
