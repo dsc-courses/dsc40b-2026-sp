@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Do not cache this page -->
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <link rel="stylesheet" href=".././style/style.css">
+        <link rel="stylesheet" href="./practice.css">
+
+        <!-- Optional JavaScript -->
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+        <!-- Emoji -->
+        <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
+
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Be+Vietnam+Pro&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+        <!-- MathJax -->
+        <script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+            tex: {
+              inlineMath: [ ['$$','$$'], ["\\(","\\)"] ],
+              displayMath: [             // start/end delimiter pairs for display math
+                  ['\\[', '\\]']
+              ],
+              processEscapes: true
+            }
+          });
+        </script>
+
+        <!-- highlightjs -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+        <!-- and it's easy to individually load additional languages -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/go.min.js"></script>
+
+        <script>hljs.highlightAll();</script>
+
+
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script type="text/javascript" id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+        </script>
+
+        <title>DSC 40B</title>
+        </head>
+
+        <body>
+            <!-- responsive sidebar code comes from https://stackoverflow.com/a/48477019 -->
+            <div class="container-fluid h-100">
+                <div class="nav row wrapper min-vh-100 flex-column flex-sm-row">
+                    <aside class="col-12 col-sm-3 p-0 bg-light flex-shrink-1">
+                        <nav class="navbar navbar-expand-sm navbar-light bg-light align-items-end flex-sm-column flex-row">
+                            <a class="navbar-brand" href="#"><i class="fa fa-bullseye fa-fw"></i>DSC 40B</a>
+                            <a href class="navbar-toggler" data-toggle="collapse" data-target=".sidebar">
+                                <span class="navbar-toggler-icon"></span>
+                            </a>
+                            <div class="collapse navbar-collapse sidebar">
+                                <ul class="flex-column navbar-nav w-100 justify-content-between">
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href=".././index.html"><span class="">🗓️ Schedule</span></a>
+                                    </li>
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href=".././syllabus.html"><span class="">⚖️ Syllabus</span></a>
+                                    </li>
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href=".././office_hours.html"><span class="">👨‍🏫️ Office Hours</span></a>
+                                    </li>
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href=".././materials/default/notes/book.pdf"><span class="">📖 Course Notes</span></a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link" href=".././practice/index.html"><span class="">🎯 Practice</span></a>
+                                    </li>
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="https://campuswire.com/p/G338E5706"><span class="">💬 Campuswire</span></a>
+                                    </li>
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="https://www.gradescope.com/courses/528481"><span class="">💯 Gradescope</span></a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </nav>
+                    </aside>
+                    <main class="col bg-faded main-content">
+
+                          <div class="site-title">
+                            <h1>DSC 40B &ndash; Theoretical Foundations of Data Science II</h1>
+                            <hr>
+                        </div>
+
+                        <div>
+<h1>Practice Problems</h1>
+
+
+            <div class="tagset">
+                <h2>Midterm 01</h2>
+                <p>Practice problems for topics on Midterm 01.
+See also the <a href="http://dsc40b.com/materials/default/supplementary/sample_midterm_01/sample_midterm_01.pdf">Sample Midterm 01</a>
+and its <a href="http://dsc40b.com/materials/default/supplementary/sample_midterm_01/sample_midterm_01-solution.pdf">solutions</a>.</p>
+                <p>
+                    <a href="./midterm-01.html">See all problems in this set</a>, or
+                    choose a tag below to view only those problems.
+                </p>
+            <ul>
+<li><a href='./tags/asymptotic notation.html'>asymptotic notation</a></li>
+<li><a href='./tags/best and worst case.html'>best and worst case</a></li>
+<li><a href='./tags/binary search.html'>binary search</a></li>
+<li><a href='./tags/binary search trees.html'>binary search trees</a></li>
+<li><a href='./tags/expected time.html'>expected time</a></li>
+<li><a href='./tags/loop invariants.html'>loop invariants</a></li>
+<li><a href='./tags/mergesort.html'>mergesort</a></li>
+<li><a href='./tags/quickselect.html'>quickselect</a></li>
+<li><a href='./tags/recurrence relations.html'>recurrence relations</a></li>
+<li><a href='./tags/recursion.html'>recursion</a></li>
+<li><a href='./tags/sorted structure.html'>sorted structure</a></li>
+<li><a href='./tags/theoretical lower bounds.html'>theoretical lower bounds</a></li>
+<li><a href='./tags/time complexity.html'>time complexity</a></li>
+<li><a href='./tags/verifying recursion.html'>verifying recursion</a></li>
+</ul>
+            </div>
+
+
+            <div class="tagset">
+                <h2>Midterm 02</h2>
+                <p>Practice problems for topics on Midterm 02.
+See also the <a href="http://dsc40b.com/materials/default/supplementary/sample_midterm_02/sample_midterm_02.pdf">Sample Midterm 02</a>
+and its <a href="http://dsc40b.com/materials/default/supplementary/sample_midterm_02/sample_midterm_02-solution.pdf">solutions</a>.</p>
+                <p>
+                    <a href="./midterm-02.html">See all problems in this set</a>, or
+                    choose a tag below to view only those problems.
+                </p>
+            <ul>
+<li><a href='./tags/aggregate analysis.html'>aggregate analysis</a></li>
+<li><a href='./tags/bellman-ford.html'>bellman-ford</a></li>
+<li><a href='./tags/breadth first search.html'>breadth first search</a></li>
+<li><a href='./tags/connected components.html'>connected components</a></li>
+<li><a href='./tags/depth first search.html'>depth first search</a></li>
+<li><a href='./tags/dijkstra.html'>dijkstra</a></li>
+<li><a href='./tags/graph representations.html'>graph representations</a></li>
+<li><a href='./tags/graph theory.html'>graph theory</a></li>
+<li><a href='./tags/hashing.html'>hashing</a></li>
+<li><a href='./tags/shortest paths.html'>shortest paths</a></li>
+<li><a href='./tags/start and finish times.html'>start and finish times</a></li>
+<li><a href='./tags/topological sorting.html'>topological sorting</a></li>
+</ul>
+            </div>
+
+</div>
+                    </main>
+                </div>
+            </div>
+        </body>
+</html>
