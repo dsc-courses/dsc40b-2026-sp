@@ -39,7 +39,11 @@
                         "number": 1,
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/01-time_complexity/discussion.pdf"
+                        }
+                    }
                 },
                 "02-best_worst_time": {
                     "metadata": {
@@ -48,14 +52,7 @@
                         "number": 2,
                         "recording": null
                     },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/02-best_worst_time/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "discussions/02-best_worst_time/solution.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "03-average_time": {
                     "metadata": {
@@ -64,14 +61,7 @@
                         "number": 3,
                         "recording": null
                     },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/03-average_time/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "discussions/03-average_time/solution.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "04-recursion_sorting": {
                     "metadata": {
@@ -80,14 +70,7 @@
                         "number": 4,
                         "recording": null
                     },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/04-recursion_sorting/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "discussions/04-recursion_sorting/solution.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "05-midterm_01_review": {
                     "metadata": {
@@ -238,11 +221,7 @@
                         "topic": "Asymptotic Time Complexity, pt. III",
                         "number": 4
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/04-time_complexity-pt_III/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "05-cases-pt_1": {
                     "metadata": {
@@ -251,11 +230,7 @@
                         "topic": "Best, Worst Time Complexity",
                         "number": 5
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/05-cases-pt_1/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "06-cases-pt_II": {
                     "metadata": {
@@ -264,11 +239,7 @@
                         "topic": "Average Time Complexity",
                         "number": 6
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/06-cases-pt_II/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "07-cases-pt_III": {
                     "metadata": {
@@ -277,11 +248,7 @@
                         "topic": "Expected Time Complexity, Theoretical Lower Bound",
                         "number": 7
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/07-cases-pt_III/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "08-Binary_search": {
                     "metadata": {
@@ -290,11 +257,7 @@
                         "topic": "Binary Search",
                         "number": 8
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/08-Binary_search/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "09-Recurrences": {
                     "metadata": {
@@ -303,11 +266,7 @@
                         "topic": "Recurrences",
                         "number": 9
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/09-Recurrences/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "10-sorting": {
                     "metadata": {
@@ -316,11 +275,7 @@
                         "topic": "Sorting",
                         "number": 10
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/10-sorting/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "11-quickselect": {
                     "metadata": {
@@ -621,7 +576,7 @@
                 "02-asymptotic": {
                     "metadata": {
                         "due": "2026-04-12 23:59:00",
-                        "ready": false,
+                        "ready": true,
                         "released": "2026-04-05 00:00:00",
                         "topic": "Time Complexity and Asymptotic Notation",
                         "number": 2
@@ -731,7 +686,7 @@
                 "01-time_complexity": {
                     "metadata": {
                         "due": "2026-04-08 23:59:00",
-                        "released": "2025-09-28 16:30:00",
+                        "released": "2026-03-31 16:30:00",
                         "topic": "Time Complexity Analysis",
                         "number": 1
                     },
