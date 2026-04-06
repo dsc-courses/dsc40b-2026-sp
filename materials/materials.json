@@ -221,7 +221,11 @@
                         "topic": "Asymptotic Time Complexity, pt. III",
                         "number": 4
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/04-time_complexity-pt_III/slides.pdf"
+                        }
+                    }
                 },
                 "05-cases-pt_1": {
                     "metadata": {
