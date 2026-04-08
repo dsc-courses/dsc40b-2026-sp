@@ -234,7 +234,11 @@
                         "topic": "Best, Worst Time Complexity",
                         "number": 5
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/05-cases-pt_1/slides.pdf"
+                        }
+                    }
                 },
                 "06-cases-pt_II": {
                     "metadata": {
