@@ -703,11 +703,15 @@
                 "02-asymptotic": {
                     "metadata": {
                         "due": "2026-04-15 23:59:00",
-                        "released": "2026-04-09 00:00:00",
+                        "released": "2026-04-08 00:00:00",
                         "topic": "Time Complexity and Asymptotic Notation",
                         "number": 2
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/02-asymptotic/homework.pdf"
+                        }
+                    }
                 },
                 "03-recurrences-sorting": {
                     "metadata": {
