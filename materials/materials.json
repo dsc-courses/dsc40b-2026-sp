@@ -52,7 +52,11 @@
                         "number": 2,
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/02-best_worst_time/discussion.pdf"
+                        }
+                    }
                 },
                 "03-average_time": {
                     "metadata": {
