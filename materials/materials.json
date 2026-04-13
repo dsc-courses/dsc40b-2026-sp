@@ -277,7 +277,11 @@
                         "topic": "Binary Search",
                         "number": 8
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/08-Binary_search/slides.pdf"
+                        }
+                    }
                 },
                 "09-Recurrences": {
                     "metadata": {
