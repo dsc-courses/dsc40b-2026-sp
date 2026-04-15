@@ -735,15 +735,11 @@
                 "03-recurrences-sorting": {
                     "metadata": {
                         "due": "2026-04-22 23:59:00",
-                        "released": "2026-04-14 00:00:00",
+                        "released": "2026-04-15 00:00:00",
                         "topic": "Recurrences and Sorting",
                         "number": 3
                     },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/03-recurrences-sorting/homework.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "04-quickselect-bst": {
                     "metadata": {
@@ -783,24 +779,17 @@
                 },
                 "08-spd": {
                     "metadata": {
-                        "due": "2025-11-30 23:59:00",
-                        "released": "2025-11-23 23:59:00",
+                        "due": "2026-05-27 23:59:00",
+                        "released": "2026-05-20 23:59:00",
                         "topic": "Shortest Paths in Weighted Graphs",
                         "number": 8
                     },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/08-spd/homework.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "homeworks/08-spd/solution.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "09-super_homework": {
                     "metadata": {
-                        "due": "2025-12-10 23:59:00",
-                        "released": "2025-11-30 23:59:00",
+                        "due": "2026-06-03 23:59:00",
+                        "released": "2026-05-27 23:59:00",
                         "topic": "Super Homework",
                         "number": 9
                     },
