@@ -290,7 +290,11 @@
                         "topic": "Recurrences",
                         "number": 9
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/09-Recurrences/slides.pdf"
+                        }
+                    }
                 },
                 "10-sorting": {
                     "metadata": {
@@ -299,7 +303,11 @@
                         "topic": "Sorting",
                         "number": 10
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/10-sorting/slides.pdf"
+                        }
+                    }
                 },
                 "11-quickselect": {
                     "metadata": {
