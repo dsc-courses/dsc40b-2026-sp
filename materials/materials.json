@@ -65,7 +65,11 @@
                         "number": 3,
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/03-average_time/discussion.pdf"
+                        }
+                    }
                 },
                 "04-recursion_sorting": {
                     "metadata": {
