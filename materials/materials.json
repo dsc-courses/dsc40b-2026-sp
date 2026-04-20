@@ -313,7 +313,7 @@
                     "metadata": {
                         "reading": "Section 2.1 and 2.3",
                         "date": "2026-04-20",
-                        "topic": "Sorting",
+                        "topic": "Midterm 1, Sorting",
                         "number": 10
                     },
                     "artifacts": {
@@ -329,11 +329,7 @@
                         "topic": "Quickselect",
                         "number": 11
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/11-quickselect/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "12-partiton": {
                     "metadata": {
@@ -342,11 +338,7 @@
                         "topic": "Partition",
                         "number": 12
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/12-partiton/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "13-bst": {
                     "metadata": {
@@ -355,11 +347,7 @@
                         "topic": "BST",
                         "number": 13
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/13-bst/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "14-hashing-pt_I": {
                     "metadata": {
@@ -368,11 +356,7 @@
                         "topic": "Hashing",
                         "number": 14
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/14-hashing-pt_I/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "15-hashing-pt_II": {
                     "metadata": {
@@ -381,11 +365,7 @@
                         "topic": "Hashing",
                         "number": 15
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/15-hashing-pt_II/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "16-midterm": {
                     "metadata": {
