@@ -326,10 +326,14 @@
                     "metadata": {
                         "reading": null,
                         "date": "2026-04-22",
-                        "topic": "Quickselect",
+                        "topic": "Merge Sort",
                         "number": 11
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/11-quickselect/slides.pdf"
+                        }
+                    }
                 },
                 "12-partiton": {
                     "metadata": {
