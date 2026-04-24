@@ -760,7 +760,11 @@
                         "topic": "Quickselect and BSTs",
                         "number": 4
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/04-quickselect-bst/homework.pdf"
+                        }
+                    }
                 },
                 "05-hashing": {
                     "metadata": {
