@@ -87,7 +87,11 @@
                         "number": 4,
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/04-recursion_sorting/discussion.pdf"
+                        }
+                    }
                 },
                 "05-midterm_01_review": {
                     "metadata": {
