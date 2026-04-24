@@ -342,7 +342,11 @@
                         "topic": "QuickSelect",
                         "number": 12
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/12-partiton/slides.pdf"
+                        }
+                    }
                 },
                 "13-bst": {
                     "metadata": {
