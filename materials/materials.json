@@ -356,16 +356,20 @@
                     "metadata": {
                         "reading": null,
                         "date": "2026-04-27",
-                        "topic": "BST",
+                        "topic": "QuickSelect complecity and QuickSort",
                         "number": 13
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/13-bst/slides.pdf"
+                        }
+                    }
                 },
                 "14-hashing-pt_I": {
                     "metadata": {
                         "reading": null,
                         "date": "2026-04-29",
-                        "topic": "Hashing",
+                        "topic": "BST",
                         "number": 14
                     },
                     "artifacts": {}
