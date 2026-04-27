@@ -113,11 +113,7 @@
                         "number": 6,
                         "recording": null
                     },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/06-hashing/discussion.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "07-graphs_bfs": {
                     "metadata": {
@@ -125,11 +121,7 @@
                         "topic": "Graphs and BFS",
                         "number": 7
                     },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/07-graphs_bfs/discussion.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "08-dfs": {
                     "metadata": {
@@ -138,11 +130,7 @@
                         "number": 8,
                         "recording": null
                     },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/08-dfs/discussion.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 }
             }
         },
@@ -356,7 +344,7 @@
                     "metadata": {
                         "reading": null,
                         "date": "2026-04-27",
-                        "topic": "QuickSelect complecity and QuickSort",
+                        "topic": "QuickSelect Complexity and QuickSort",
                         "number": 13
                     },
                     "artifacts": {
@@ -372,7 +360,11 @@
                         "topic": "BST",
                         "number": 14
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/14-hashing-pt_I/slides.pdf"
+                        }
+                    }
                 },
                 "15-hashing-pt_II": {
                     "metadata": {
