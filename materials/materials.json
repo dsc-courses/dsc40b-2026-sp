@@ -812,11 +812,7 @@
                         "topic": "Super Homework",
                         "number": 9
                     },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/09-super_homework/homework.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 }
             }
         },
