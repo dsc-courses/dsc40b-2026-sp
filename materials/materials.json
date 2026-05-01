@@ -776,7 +776,11 @@
                         "topic": "Hashing",
                         "number": 5
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/05-hashing/homework.pdf"
+                        }
+                    }
                 },
                 "06-graphs": {
                     "metadata": {
