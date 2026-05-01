@@ -103,7 +103,11 @@
                         "number": 5,
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/05-midterm_01_review/discussion.pdf"
+                        }
+                    }
                 },
                 "06-hashing": {
                     "metadata": {
