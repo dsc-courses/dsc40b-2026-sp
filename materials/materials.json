@@ -384,12 +384,16 @@
                 },
                 "16-midterm": {
                     "metadata": {
-                        "reading": null,
+                        "reading": "Section 3.1 and 3.2",
                         "date": "2026-05-04",
-                        "topic": "Midterm 1",
+                        "topic": "Graph Theory",
                         "number": 16
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/16-midterm/slides.pdf"
+                        }
+                    }
                 },
                 "17-graph_theory": {
                     "metadata": {
