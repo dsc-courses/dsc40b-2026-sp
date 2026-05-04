@@ -382,7 +382,7 @@
                         }
                     }
                 },
-                "16-midterm": {
+                "16-graph_theory": {
                     "metadata": {
                         "reading": "Section 3.1 and 3.2",
                         "date": "2026-05-04",
@@ -391,7 +391,7 @@
                     },
                     "artifacts": {
                         "slides.pdf": {
-                            "path": "lectures/16-midterm/slides.pdf"
+                            "path": "lectures/16-graph_theory/slides.pdf"
                         }
                     }
                 },
