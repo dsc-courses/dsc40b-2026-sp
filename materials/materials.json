@@ -402,11 +402,7 @@
                         "topic": "Graph Theory",
                         "number": 17
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/17-graph_theory/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "18-graph_repr": {
                     "metadata": {
