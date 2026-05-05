@@ -761,6 +761,9 @@
                     "artifacts": {
                         "homework.pdf": {
                             "path": "homeworks/03-recurrences-sorting/homework.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/03-recurrences-sorting/solution.pdf"
                         }
                     }
                 },
@@ -774,6 +777,9 @@
                     "artifacts": {
                         "homework.pdf": {
                             "path": "homeworks/04-quickselect-bst/homework.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/04-quickselect-bst/solution.pdf"
                         }
                     }
                 },
