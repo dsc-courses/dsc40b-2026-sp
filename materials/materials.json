@@ -411,7 +411,11 @@
                         "topic": "Graph Theory",
                         "number": 18
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/18-graph_repr/slides.pdf"
+                        }
+                    }
                 },
                 "19-bfs-pt_I": {
                     "metadata": {
