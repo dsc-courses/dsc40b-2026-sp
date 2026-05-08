@@ -398,25 +398,29 @@
                         }
                     }
                 },
-                "17-graph_theory": {
+                "17-graph_repr": {
                     "metadata": {
                         "reading": "Section 3.1 and 3.2",
                         "date": "2026-05-06",
-                        "topic": "Graph Theory",
+                        "topic": "Graph Representation",
                         "number": 17
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/17-graph_repr/slides.pdf"
+                        }
+                    }
                 },
-                "18-graph_repr": {
+                "18-graph_bfs": {
                     "metadata": {
                         "reading": "Section 3.1 and 3.2",
                         "date": "2026-05-08",
-                        "topic": "Graph Theory",
+                        "topic": "BFS",
                         "number": 18
                     },
                     "artifacts": {
                         "slides.pdf": {
-                            "path": "lectures/18-graph_repr/slides.pdf"
+                            "path": "lectures/18-graph_bfs/slides.pdf"
                         }
                     }
                 },
