@@ -119,7 +119,11 @@
                         "number": 6,
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/06-hashing/discussion.pdf"
+                        }
+                    }
                 },
                 "07-graphs_bfs": {
                     "metadata": {
