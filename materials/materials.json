@@ -814,7 +814,11 @@
                         "topic": "Graph Theory and BFS",
                         "number": 6
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/06-graphs/homework.pdf"
+                        }
+                    }
                 },
                 "07-bfs-dfs": {
                     "metadata": {
