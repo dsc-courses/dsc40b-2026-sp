@@ -438,11 +438,7 @@
                         "topic": "Breadth First Search",
                         "number": 19
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/19-bfs-pt_I/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "20-bfs-pt_I|": {
                     "metadata": {
@@ -451,11 +447,7 @@
                         "topic": "Breadth First Search",
                         "number": 20
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/20-bfs-pt_I|/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "21-ShortestPath": {
                     "metadata": {
@@ -464,11 +456,7 @@
                         "topic": "Shortest Path",
                         "number": 21
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/21-ShortestPath/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "22-dfs": {
                     "metadata": {
@@ -477,11 +465,7 @@
                         "topic": "Depth First Search",
                         "number": 22
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/22-dfs/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "23-Dijkstra": {
                     "metadata": {
@@ -490,11 +474,7 @@
                         "topic": "Dijkstra Algorithm. Part 1",
                         "number": 23
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/23-Dijkstra/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "24-Dijkstra": {
                     "metadata": {
@@ -503,11 +483,7 @@
                         "topic": "Dijkstra Algorithm. Part 2",
                         "number": 24
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/24-Dijkstra/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "25-Bellman-Ford": {
                     "metadata": {
@@ -525,11 +501,7 @@
                         "topic": "Minimum Spanning Trees and Prim's Algorithm",
                         "number": 26
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/26-Prim/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "27-Kruskal": {
                     "metadata": {
@@ -538,11 +510,7 @@
                         "topic": "Minimum Spanning Trees and Kruskal's Algorithm",
                         "number": 27
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/27-Kruskal/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "28-Thanksgiving": {
                     "metadata": {
