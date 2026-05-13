@@ -433,10 +433,10 @@
                 },
                 "19-bfs-pt_I": {
                     "metadata": {
-                        "reading": "Section 3.3",
+                        "reading": null,
                         "date": "2026-05-11",
-                        "topic": "Breadth First Search",
-                        "number": 19
+                        "topic": "Exam 2",
+                        "number": 18
                     },
                     "artifacts": {}
                 },
