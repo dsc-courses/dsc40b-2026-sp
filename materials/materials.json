@@ -418,10 +418,19 @@
                         }
                     }
                 },
+                "18-exam2": {
+                    "metadata": {
+                        "reading": null,
+                        "date": "2026-05-08",
+                        "topic": "Exam 2",
+                        "number": 18
+                    },
+                    "artifacts": {}
+                },
                 "18-graph_bfs": {
                     "metadata": {
                         "reading": "Section 3.1 and 3.2",
-                        "date": "2026-05-08",
+                        "date": "2026-05-11",
                         "topic": "BFS",
                         "number": 18
                     },
@@ -431,23 +440,18 @@
                         }
                     }
                 },
-                "19-bfs-pt_I": {
-                    "metadata": {
-                        "reading": null,
-                        "date": "2026-05-11",
-                        "topic": "Exam 2",
-                        "number": 18
-                    },
-                    "artifacts": {}
-                },
-                "20-bfs-pt_I|": {
+                "19-bfs-two": {
                     "metadata": {
                         "reading": "Section 3.3",
                         "date": "2026-05-13",
                         "topic": "Breadth First Search",
-                        "number": 20
+                        "number": 19
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/19-bfs-two/slides.pdf"
+                        }
+                    }
                 },
                 "21-ShortestPath": {
                     "metadata": {
