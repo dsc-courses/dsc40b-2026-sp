@@ -460,7 +460,11 @@
                         "topic": "Shortest Path",
                         "number": 21
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/21-ShortestPath/slides.pdf"
+                        }
+                    }
                 },
                 "22-dfs": {
                     "metadata": {
@@ -469,7 +473,11 @@
                         "topic": "Depth First Search",
                         "number": 22
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/22-dfs/slides.pdf"
+                        }
+                    }
                 },
                 "23-Dijkstra": {
                     "metadata": {
