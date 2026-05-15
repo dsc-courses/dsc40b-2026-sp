@@ -134,7 +134,11 @@
                         "topic": "Graphs and BFS",
                         "number": 7
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/07-graphs_bfs/discussion.pdf"
+                        }
+                    }
                 },
                 "08-dfs": {
                     "metadata": {
