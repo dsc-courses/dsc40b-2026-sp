@@ -663,9 +663,9 @@
                 },
                 "07-bfs": {
                     "metadata": {
-                        "due": "2026-05-17 23:59:00",
+                        "due": "2026-05-18 23:59:00",
                         "ready": true,
-                        "released": "2026-05-10 00:00:00",
+                        "released": "2026-05-11 00:00:00",
                         "topic": "BFS and DFS",
                         "number": 7
                     },
@@ -673,9 +673,9 @@
                 },
                 "08-spd": {
                     "metadata": {
-                        "due": "2026-05-24 23:59:00",
+                        "due": "2026-05-25 23:59:00",
                         "ready": true,
-                        "released": "2026-05-17 00:00:00",
+                        "released": "2026-05-18 00:00:00",
                         "topic": "Shortest Paths in Weighted Graphs",
                         "number": 8
                     },
@@ -683,9 +683,9 @@
                 },
                 "09-mst": {
                     "metadata": {
-                        "due": "2026-06-07 23:59:00",
+                        "due": "2026-06-08 23:59:00",
                         "ready": true,
-                        "released": "2026-05-24 00:00:00",
+                        "released": "2026-05-25 00:00:00",
                         "topic": "Minimum Spanning Trees",
                         "number": 9
                     },
