@@ -137,6 +137,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/07-graphs_bfs/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/07-graphs_bfs/solution.pdf"
                         }
                     }
                 },
