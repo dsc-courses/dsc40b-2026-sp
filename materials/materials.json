@@ -836,16 +836,20 @@
                 },
                 "08-spd": {
                     "metadata": {
-                        "due": "2026-05-27 23:59:00",
+                        "due": "2026-05-29 23:59:00",
                         "released": "2026-05-20 23:59:00",
                         "topic": "Shortest Paths in Weighted Graphs",
                         "number": 8
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/08-spd/homework.pdf"
+                        }
+                    }
                 },
                 "09-super_homework": {
                     "metadata": {
-                        "due": "2026-06-03 23:59:00",
+                        "due": "2026-06-05 23:59:00",
                         "released": "2026-05-27 23:59:00",
                         "topic": "Super Homework",
                         "number": 9
