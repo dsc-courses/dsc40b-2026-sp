@@ -493,7 +493,11 @@
                         "topic": "Dijkstra Algorithm. Part 1",
                         "number": 23
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/23-Dijkstra/slides.pdf"
+                        }
+                    }
                 },
                 "24-Dijkstra": {
                     "metadata": {
