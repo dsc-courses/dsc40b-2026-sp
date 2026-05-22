@@ -499,16 +499,20 @@
                         }
                     }
                 },
-                "24-Dijkstra": {
+                "24-Bellman-Ford": {
                     "metadata": {
                         "reading": null,
                         "date": "2026-05-22",
-                        "topic": "Dijkstra Algorithm. Part 2",
+                        "topic": "Bellman-Ford",
                         "number": 24
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/24-Bellman-Ford/slides.pdf"
+                        }
+                    }
                 },
-                "25-Bellman-Ford": {
+                "25-Bellman-Ford_old": {
                     "metadata": {
                         "reading": null,
                         "date": "2026-05-25",
