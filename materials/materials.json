@@ -688,9 +688,9 @@
                 },
                 "08-spd": {
                     "metadata": {
-                        "due": "2026-05-25 23:59:00",
+                        "due": "2026-05-26 23:59:00",
                         "ready": true,
-                        "released": "2026-05-18 00:00:00",
+                        "released": "2026-05-19 00:00:00",
                         "topic": "Shortest Paths in Weighted Graphs",
                         "number": 8
                     },
@@ -698,9 +698,9 @@
                 },
                 "09-mst": {
                     "metadata": {
-                        "due": "2026-06-08 23:59:00",
+                        "due": "2026-06-01 23:59:00",
                         "ready": true,
-                        "released": "2026-05-25 00:00:00",
+                        "released": "2026-05-26 00:00:00",
                         "topic": "Minimum Spanning Trees",
                         "number": 9
                     },
