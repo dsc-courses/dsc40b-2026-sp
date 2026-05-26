@@ -158,6 +158,15 @@
                             "path": "discussions/08-dfs/solution.pdf"
                         }
                     }
+                },
+                "09-dijkstras": {
+                    "metadata": {
+                        "date": "2026-05-29",
+                        "topic": "Dijkstra's Algorithm",
+                        "number": 9,
+                        "recording": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
