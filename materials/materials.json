@@ -557,7 +557,11 @@
                         "topic": "Prim's Algorithm",
                         "number": 27
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/27-Kruskal/slides.pdf"
+                        }
+                    }
                 },
                 "28-Thanksgiving": {
                     "metadata": {
