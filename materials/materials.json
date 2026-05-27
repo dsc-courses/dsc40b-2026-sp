@@ -532,7 +532,7 @@
                     "metadata": {
                         "reading": null,
                         "date": "2026-05-25",
-                        "topic": "Bellman-Ford",
+                        "topic": "Memorial Day",
                         "number": 25
                     },
                     "artifacts": {}
@@ -541,16 +541,20 @@
                     "metadata": {
                         "reading": null,
                         "date": "2026-05-27",
-                        "topic": "Minimum Spanning Trees and Prim's Algorithm",
+                        "topic": "Minimum Spanning Trees",
                         "number": 26
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/26-Prim/slides.pdf"
+                        }
+                    }
                 },
                 "27-Kruskal": {
                     "metadata": {
                         "reading": null,
                         "date": "2026-05-29",
-                        "topic": "Minimum Spanning Trees and Kruskal's Algorithm",
+                        "topic": "Prim's Algorithm",
                         "number": 27
                     },
                     "artifacts": {}
