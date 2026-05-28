@@ -877,12 +877,16 @@
                 },
                 "09-super_homework": {
                     "metadata": {
-                        "due": "2026-06-05 23:59:00",
+                        "due": "2026-06-09 23:59:00",
                         "released": "2026-05-27 23:59:00",
                         "topic": "Super Homework",
                         "number": 9
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/09-super_homework/homework.pdf"
+                        }
+                    }
                 }
             }
         },
