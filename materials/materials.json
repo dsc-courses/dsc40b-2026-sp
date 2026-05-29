@@ -166,7 +166,11 @@
                         "number": 9,
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/09-dijkstras/discussion.pdf"
+                        }
+                    }
                 }
             }
         },
