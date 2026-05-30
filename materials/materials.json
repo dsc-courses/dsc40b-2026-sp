@@ -169,6 +169,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/09-dijkstras/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/09-dijkstras/solution.pdf"
                         }
                     }
                 }
