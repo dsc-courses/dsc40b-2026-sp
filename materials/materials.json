@@ -574,7 +574,7 @@
                     "metadata": {
                         "reading": null,
                         "date": "2026-06-01",
-                        "topic": "Thanksgiving Break",
+                        "topic": "Exam 3",
                         "number": 28
                     },
                     "artifacts": {}
@@ -586,17 +586,13 @@
                         "topic": "MST and Data",
                         "number": 29
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/29-MST and Data/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "30-Midterm_2": {
                     "metadata": {
                         "reading": null,
                         "date": "2026-06-05",
-                        "topic": "Midterm 2",
+                        "topic": "TBD",
                         "number": 30
                     },
                     "artifacts": {}
@@ -608,11 +604,7 @@
                         "topic": "NP completeness",
                         "number": 31
                     },
-                    "artifacts": {
-                        "slides.pdf": {
-                            "path": "lectures/31-np_completeness/slides.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 }
             }
         },
