@@ -885,6 +885,9 @@
                     "artifacts": {
                         "homework.pdf": {
                             "path": "homeworks/08-spd/homework.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/08-spd/solution.pdf"
                         }
                     }
                 },
