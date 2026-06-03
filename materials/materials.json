@@ -583,19 +583,27 @@
                     "metadata": {
                         "reading": null,
                         "date": "2026-06-03",
-                        "topic": "MST and Data",
+                        "topic": "Kruskal algorithm for MST and Data",
                         "number": 29
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/29-MST and Data/slides.pdf"
+                        }
+                    }
                 },
-                "30-Midterm_2": {
+                "30-NP-last": {
                     "metadata": {
                         "reading": null,
                         "date": "2026-06-05",
-                        "topic": "TBD",
+                        "topic": "NP completeness",
                         "number": 30
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/30-NP-last/slides.pdf"
+                        }
+                    }
                 },
                 "31-np_completeness": {
                     "metadata": {
